@@ -18,7 +18,7 @@ variables:
   environmentName: '01-hello-world-rest-api-tudv8'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  vmImageName: 'MyPool'
 
 stages:
 - stage: Build
